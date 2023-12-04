@@ -12,6 +12,7 @@ ENV PATH /opt/node_modules/.bin:$PATH
 
 WORKDIR /opt/app
 COPY . .
+
 RUN chown -R node:node /opt/app
 USER node
 RUN ["yarn", "build"]
