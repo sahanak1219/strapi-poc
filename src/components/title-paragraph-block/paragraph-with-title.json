@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_title_paragraph_block_paragraph_with_titles",
+  "info": {
+    "displayName": "paragraph with title"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "pragraph": {
+      "type": "text",
+      "required": true
+    }
+  }
+}

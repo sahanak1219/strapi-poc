@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_paragraph_content_paragraph_contents",
+  "info": {
+    "displayName": "Paragraph content"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "text",
+      "required": true
+    }
+  }
+}

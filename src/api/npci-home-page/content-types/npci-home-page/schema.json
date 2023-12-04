@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "npci_home_pages",
+  "info": {
+    "singularName": "npci-home-page",
+    "pluralName": "npci-home-pages",
+    "displayName": "NPCI Home Page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "short_text": {
+      "type": "string",
+      "maxLength": 20
+    }
+  }
+}
